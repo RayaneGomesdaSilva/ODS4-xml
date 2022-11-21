@@ -1,0 +1,374 @@
+body{
+    background-color: #290000;
+}
+.wrapper{
+    height: 3650px;
+    width: 1280px;
+    position: relative;
+
+}
+.retangulo{
+    height: 592px;
+    width: 100%;
+    top: 0px;
+    position: relative;
+}
+.edq{
+    top: -250px;
+    left: 50px;
+    position: relative;
+}
+.livroinc{
+    top: -235px;
+    left: 30px;
+    position: relative;
+}
+.quatro{
+    position: absolute;
+    width: 97px;
+    height: 104px;
+    left: 800px;
+    top: 373px;
+    font-family: 'verdana';
+    font-style: 'normal';
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    color: #FFFFFF;
+}
+.ds{
+    position: absolute;
+    width: 281px;
+    height: 100px;
+    left: 1054px;
+    top: 480px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 130px;
+    line-height: 145px;
+    color: #FFFFFF;
+}
+.circulologo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 960px;
+    top: 510px;
+}
+.quadro1{
+    position: absolute;
+    width: 535px;
+    height: 321px;
+    left: 73px;
+    top: 709px;
+    background: #FFFFFF;
+    border-radius: 77px;
+}
+.sombra1{
+    position: absolute;
+    width: 534px;
+    height: 317px;
+    left: 106px;
+    top: 742px;
+    background: #660000;
+    border-radius: 77px;
+}
+.img1{
+    position: absolute;
+    top: 12px;
+    left: 62px;
+}
+.text1{
+    position: absolute;
+    width: 540px;
+    height: 321px;
+    left: 745px;
+    top: 700px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+.sombra2{
+    position: absolute;
+    width: 534px;
+    height: 317px;
+    left: 764px;
+    top: 1195px;
+    background: #660000;
+    border-radius: 77px;
+}
+.quadro2{
+    position: absolute;
+    width: 535px;
+    height: 321px;
+    left: 731px;
+    top: 1167px;
+    background: #FF0000;
+    border-radius: 77px;
+}
+.img2{
+    position: absolute;
+    width: 549px;
+    height: 318px;
+    left: 740px;
+    top: 1159px;
+}
+.text2{
+    position: absolute;
+    width: 540px;
+    height: 321px;
+    left: 100px;
+    top: 1167px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+.retangulo2{
+    position: absolute;
+    width: 1343px;
+    height: 1700px;
+    left: 0px;
+    top: 1564px;
+    background: #660000;
+}
+.sombra3{
+    position: absolute;
+    width: 534px;
+    height: 317px;
+    left: 106px;
+    top: 1642px;
+    background: #290000;
+    border-radius: 77px;
+}
+.quadro3{
+    position: absolute;
+    width: 535px;
+    height: 321px;
+    left: 83px;
+    top: 1605px;
+    background: #FF0000;
+    border-radius: 77px;
+}
+.img3{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 200px;
+    top: 1626px;
+}
+.text3{
+    position: absolute;
+    width: 540px;
+    height: 321px;
+    left: 96px;
+    top: 1976px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+.sombra4{
+    position: absolute;
+    width: 534px;
+    height: 317px;
+    left: 764px;
+    top: 1642px;
+    background: #290000;
+    border-radius: 77px;
+}
+.quadro4{
+    position: absolute;
+    width: 535px;
+    height: 321px;
+    left: 736px;
+    top: 1605px;
+    background: #FF0000;
+    border-radius: 77px;
+}
+.img4{
+    position: absolute;
+    width: 475px;
+    height: 357px;
+    left: 761px;
+    top: 1587px;
+}
+.text4{
+    position: absolute;
+    width: 540px;
+    height: 321px;
+    left: 749px;
+    top: 1974px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+.text4-2{
+    position: absolute;
+    width: 540px;
+    height: 321px;
+    left: 749px;
+    top: 2047px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24.5px;
+    color: #FFFFFF;
+}
+.sombra5{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 1184px;
+    top: 3300px;
+    background: #660000;
+    border-radius: 40px;
+}
+.quadro5{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 1169px;
+    top: 3285px;
+    background: #FF0000;
+    border-radius: 40px;
+}
+.img5{
+    position: absolute;
+    width: 95px;
+    height: 95px;
+    left: 19px;
+    top: 15px;
+}
+.txttwitter{
+    position: absolute;
+    width: 111px;
+    height: 122px;
+    left: 12px;
+    top: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sombra6{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 1019px;
+    top: 3300px;
+    background: #660000;
+    border-radius: 40px;
+}
+.quadro6{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 1001px;
+    top: 3285px;
+    background: #FF0000;
+    border-radius: 40px;
+}
+.img6{
+    position: absolute;
+    width: 95px;
+    height: 95px;
+    left: 16px;
+    top: 15px;
+}
+.txtinsta{
+    position: absolute;
+    width: 111px;
+    height: 122px;
+    left: 12px;
+    top: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sombra7{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 854px;
+    top: 3300px;
+    background: #660000;
+    border-radius: 40px;
+}
+.quadro7{
+    position: absolute;
+    width: 134px;
+    height: 300px;
+    left: 841px;
+    top: 3285px;
+    background: #FF0000;
+    border-radius: 40px;
+}
+.img7{
+    position: absolute;
+    width: 97px;
+    height: 95px;
+    left: 16px;
+    top: 15px;
+}
+.txtfb{
+    position: absolute;
+    width: 111px;
+    height: 122px;
+    left: 12px;
+    top: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.saibamais{
+    position: absolute;
+    width: 209px;
+    height: 219px;
+    left: 580px;
+    top: 3403px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.img8{
+    position: absolute;
+    width: 354px;
+    height: 361px;
+    top: 3280px;
+    left: 30px;
+}
+.img9{
+    position: absolute;
+    width: 175px;
+    height: 174px;
+    top: 3372px;
+    left: 120px;
+}
